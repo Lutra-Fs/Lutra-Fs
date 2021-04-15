@@ -2,7 +2,7 @@
 
 ex-OIer. Now a Software Engineering student. 
 
-[![ZhangBo1191's github stats](https://github-readme-stats.vercel.app/api?username=ZhangBo1191)](https://github.com/anuraghazra/github-readme-stats)
+[![ZhangBo1191's github stats](https://github-readme-stats.vercel.app/api?username=Lutra-Fs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on Scoop inst config
