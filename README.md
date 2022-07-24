@@ -9,7 +9,7 @@ ex-OIer. Now a Software Engineering student at ANU.
 
 
 <!--
-**ZhangBo1191/ZhangBo1191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lutra-Fs/Lutra-Fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
