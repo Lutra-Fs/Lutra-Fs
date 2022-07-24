@@ -1,9 +1,11 @@
 ### Hi there 👋 
 
-ex-OIer. Now a Software Engineering student. 
+ex-OIer. Now a Software Engineering student at ANU. 
 
-[![ZhangBo1191's github stats](https://github-readme-stats.vercel.app/api?username=Lutra-Fs)](https://github.com/anuraghazra/github-readme-stats)
+[![Lutra-Fs's github stats](https://github-readme-stats.vercel.app/api?username=Lutra-Fs)](https://github.com/anuraghazra/github-readme-stats)
 
+
+- 🌱 I’m currently learning Software Engineering and Development
 
 
 <!--
@@ -13,7 +15,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Scoop inst config
-- 🌱 I’m currently learning Algroithms.
+- 🌱 I’m currently learning Software Engineering and Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
