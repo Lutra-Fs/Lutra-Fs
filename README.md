@@ -1,13 +1,10 @@
-### Hi there 👋 
-
-ex-OIer. Now a Software Engineering student at ANU. 
 
 ![Metrics](/github-metrics.svg)
 
 [![Lutra-Fs's github stats](https://github-readme-stats.vercel.app/api?username=Lutra-Fs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🌱 I’m currently learning Software Engineering and Development
+
 
 
 <!--
