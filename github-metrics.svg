@@ -282,7 +282,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.8 characters per line of code written</li>
+                        <li>Has approximately 34.5 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spring-projects/spring-boot</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spring Boot</div>
@@ -1847,7 +1847,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2022, 08:09:35 (timezone Australia/Sydney) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 4 Aug 2022, 09:10:40 (timezone Australia/Sydney) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
