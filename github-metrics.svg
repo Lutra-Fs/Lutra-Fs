@@ -1347,7 +1347,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ScoopInstaller/Scoop</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line installer for Windows.</div>
@@ -1400,7 +1400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spring-projects/spring-boot</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 03 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spring Boot</div>
@@ -1885,7 +1885,7 @@ notion will be used for project internal documents (need invitation), the code d
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2022, 12:00:16 (timezone Australia/Sydney) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 2 Sept 2022, 16:40:46 (timezone Australia/Sydney) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
