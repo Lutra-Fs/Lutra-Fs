@@ -1410,7 +1410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>starship/starship</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!</div>
@@ -1897,7 +1897,7 @@ Exception calling <span class="token string">"Matches"</span> with <span class="
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 23 Oct 2022, 17:32:46 (timezone Australia/Sydney) with lowlighter/metrics@3.28.0</span>
+                    <span>Last updated 23 Oct 2022, 23:40:41 (timezone Australia/Sydney) with lowlighter/metrics@3.28.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
