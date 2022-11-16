@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>woolen-sheep/md2report</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具。</div>
@@ -1540,7 +1540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KDAB/hotspot</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Linux perf GUI for performance analysis.</div>
@@ -1906,7 +1906,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2022, 17:22:50 (timezone Australia/Sydney) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Nov 2022, 23:35:35 (timezone Australia/Sydney) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
