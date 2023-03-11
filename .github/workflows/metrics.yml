@@ -58,8 +58,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
