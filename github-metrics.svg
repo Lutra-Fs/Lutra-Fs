@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mui/material-ui</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.</div>
@@ -1827,7 +1827,7 @@ Signed-off-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norepl
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2023, 22:27:22 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2023, 04:18:17 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
