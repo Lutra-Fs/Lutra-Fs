@@ -1371,7 +1371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mui/material-ui</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.</div>
@@ -1424,7 +1424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dkhamsing/open-source-ios-apps</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1474,7 +1474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/awesome</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😎 Awesome lists about all kinds of interesting topics</div>
@@ -1502,7 +1502,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        331
+                                        332
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1521,7 +1521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serhii-londar/open-source-mac-os-apps</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps</div>
@@ -1838,7 +1838,7 @@ Signed-off-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norepl
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2023, 11:00:28 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2023, 16:17:35 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
