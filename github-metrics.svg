@@ -1365,7 +1365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnsonZnl/RehabilitationGuide</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。</div>
@@ -1440,7 +1440,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        33
+                                        34
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1836,7 +1836,7 @@ Traceback (most recent call last):
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2023, 23:25:25 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2023, 05:17:07 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
