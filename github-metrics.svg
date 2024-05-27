@@ -1864,7 +1864,7 @@ BREAKING CHANGE: The get_height function now uses these new properties instead o
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2024, 16:22:40 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 22:29:23 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
