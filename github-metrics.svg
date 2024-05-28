@@ -1441,7 +1441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1095368180/warthunder-improved-chinese-localisation</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">战雷改进汉化模组</div>
@@ -1758,12 +1758,12 @@ BREAKING CHANGE: The get_height function now uses these new properties instead o
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Procedural-Terrain-Generation</span>
-                                <div class="bar" style="width: 78.696%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 78.744%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">98%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Designer Worlds</span>
-                                <div class="bar" style="width: 1.3039999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.2560000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -1773,28 +1773,28 @@ BREAKING CHANGE: The get_height function now uses these new properties instead o
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 66.24%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">83%</span>
+                                <div class="bar" style="width: 66.88%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">84%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 5.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 2.3440000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 2.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.2800000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Vcxproj</span>
-                                <div class="bar" style="width: 1.416%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 1.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -1864,7 +1864,7 @@ BREAKING CHANGE: The get_height function now uses these new properties instead o
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2024, 22:29:10 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2024, 04:20:25 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
