@@ -1859,7 +1859,7 @@ BREAKING CHANGE: The get_height function now utilizes the new properties for noi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2024, 16:21:44 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jun 2024, 22:27:08 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
