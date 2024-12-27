@@ -1366,7 +1366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chipturner/asking-questions</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collected, succinct wisdom on how to ask questions from colleagues and friends</div>
@@ -1413,7 +1413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>braydie/HowToBeAProgrammer</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A guide on how to be a Programmer - originally published by Robert L Read</div>
@@ -1454,7 +1454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python-websockets/websockets</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Library for building WebSocket servers and clients in Python</div>
@@ -1507,7 +1507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastapi/full-stack-fastapi-template</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.</div>
@@ -1808,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2024, 17:25:11 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2024, 23:34:35 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
