@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1399,7 +1399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pola-rs/polars</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</div>
@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pola-rs/nodejs-polars</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nodejs front-end of polars</div>
@@ -1505,7 +1505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>javascriptdata/danfojs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.</div>
@@ -1558,7 +1558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webpro-nl/knip</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!</div>
@@ -1898,7 +1898,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2025, 11:42:04 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2025, 16:29:58 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
