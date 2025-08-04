@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OrchardCMS/OrchardCore</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.</div>
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serilog/serilog</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple .NET logging with fully-structured events</div>
@@ -1832,7 +1832,7 @@ This section provides the recommended and up-to-date solutions straight from the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2025, 22:49:58 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2025, 04:34:31 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
