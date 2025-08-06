@@ -1390,7 +1390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OrchardCMS/OrchardCore</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.</div>
@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serilog/serilog</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple .NET logging with fully-structured events</div>
@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ZhangHanDong/cc-monitor-rs</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-time Claude Code usage monitor with native UI built using Rust and Makepad.</div>
@@ -1842,7 +1842,7 @@ This section provides the recommended and up-to-date solutions straight from the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2025, 16:36:17 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2025, 22:50:05 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
