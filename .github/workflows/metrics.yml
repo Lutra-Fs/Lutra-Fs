@@ -17,13 +17,11 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - repo (for accessing repository data)
           #  - read:user (required for sponsors, activity, and habits plugins)
           #  - read:org (required for sponsors, activity, and habits plugins)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          # Optional scopes for additional features:
+          #  - read:packages (for package-related data)
           # 
           # NOTE: If plugins fail with "INSUFFICIENT_SCOPES" errors, update your token at:
           # https://github.com/settings/tokens
