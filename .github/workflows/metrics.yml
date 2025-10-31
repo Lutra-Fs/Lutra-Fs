@@ -17,13 +17,16 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - read:user
-          #  - read:org
+          #  - read:user (required for sponsors, activity, and habits plugins)
+          #  - read:org (required for sponsors, activity, and habits plugins)
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
+          # 
+          # NOTE: If plugins fail with "INSUFFICIENT_SCOPES" errors, update your token at:
+          # https://github.com/settings/tokens
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -31,12 +34,16 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Australia/Sydney
+          # Activity plugin - requires read:user and read:org scopes
+          # Set to 'no' if you encounter "Cannot read properties of undefined" errors
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          # Habits plugin - requires read:user and read:org scopes
+          # Set to 'no' if you encounter "Cannot destructure property 'author'" errors
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -57,6 +64,8 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          # Sponsors plugin - requires read:user and read:org scopes
+          # Set to 'no' if you encounter "INSUFFICIENT_SCOPES" errors
           plugin_sponsors: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
