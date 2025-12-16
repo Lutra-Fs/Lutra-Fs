@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleCloudPlatform/terraformer</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</div>
@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unnoq/orpc</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Typesafe APIs Made Simple 🪄</div>
@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kbterm/kubeterm</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Graphical management tool for kubernetes</div>
@@ -1768,7 +1768,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2025, 12:48:40 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2025, 17:35:59 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
